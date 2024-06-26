@@ -1,0 +1,8 @@
+Package: RExtractCode
+Title: Utility functions to extract code from PDF, Rmd, IPython and R files.
+Description: These functions are useful when grading and students submit Rmd, PDF, HTML, ipynb files and we want to run the code
+  or examine the functions.
+Version: 0.1-0
+Author: Duncan Temple Lang
+Maintainer: Duncan Temple Lang <dtemplelang@ucdavis.edu>
+Imports: ReadPDF, RJSONIO, knitr, XML,

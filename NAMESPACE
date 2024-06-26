@@ -1,0 +1,8 @@
+import(ReadPDF)
+importFrom(XML, htmlParse, xpathApply, xmlValue)
+importFrom(CodeAnalysis, getFunctionDefs)
+importFrom(RJSONIO, fromJSON)
+importFrom(knitr, knit, purl)
+
+
+exportPattern(".*")
