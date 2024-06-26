@@ -5,4 +5,4 @@ Description: These functions are useful when grading and students submit Rmd, PD
 Version: 0.1-0
 Author: Duncan Temple Lang
 Maintainer: Duncan Temple Lang <dtemplelang@ucdavis.edu>
-Imports: ReadPDF, RJSONIO, knitr, XML,
+Imports: ReadPDF, RJSONIO, knitr, XML
